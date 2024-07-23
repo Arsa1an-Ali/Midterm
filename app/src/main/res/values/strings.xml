@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">MidTerm</string>
+<string name="background_image_desc">Background image</string>
+<string-array name="operations_array">
+    <item>+</item>
+    <item>-</item>
+    <item>*</item>
+    <item>/</item>
+</string-array>
+</resources>
